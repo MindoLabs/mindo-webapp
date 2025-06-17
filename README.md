@@ -2,6 +2,9 @@
 
 **Mindo** is a cross-platform web and mobile application designed to streamline and supercharge access to educational content from YouTube. With a focus on smart learning, Mindo transforms how students and self-learners engage with video-based education through powerful tools like playlist search, course creation, progress tracking, and collaborative group chats.
 
+> 🚫 This is a closed-source project. The source code is viewable but not reusable.
+> Do not copy, modify, or distribute any part of this code without written permission from MindoLabs.
+
 ## Tech Stack
 
 - **[Vite](https://vitejs.dev/)**: Next-generation frontend tooling with lightning-fast HMR and build performance
